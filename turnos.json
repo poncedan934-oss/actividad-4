@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-09-01",
+    "hora": "11:30",
+    "paciente": "Juan Lopez",
+    "documento": 2853267,
+    "especialidad": "Dermatología",
+    "confirmado": true
+  },
+  {
+    "id": 2,
+    "fecha": "2026-09-01",
+    "hora": "11:30",
+    "paciente": "María Gómez",
+    "documento": 28765432,
+    "especialidad": "Dermatología",
+    "confirmado": false
+  },
+  {
+    "id": 3,
+    "fecha": null,
+    "hora": "11:30",
+    "paciente": "Juan Lopez",
+    "documento": 2853267,
+    "especialidad": "Dermatología",
+    "confirmado": true
+  },
+  {
+    "id": 4,
+    "fecha": null,
+    "hora": "11:30",
+    "paciente": "Juan Lopez",
+    "documento": 2853267,
+    "especialidad": "Dermatología",
+    "confirmado": true
+  },
+  {
+    "id": 5,
+    "fecha": null,
+    "hora": "11:30",
+    "paciente": "Juan Lopez",
+    "documento": 2853267,
+    "especialidad": "Dermatología",
+    "confirmado": true
+  },
+  {
+    "id": 6,
+    "fecha": "2026-09-25",
+    "hora": "15:30",
+    "paciente": "Pedro Gonzalez",
+    "documento": 30123456,
+    "especialidad": "Cardiología",
+    "confirmado": false
+  }
+]
